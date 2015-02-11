@@ -7,6 +7,8 @@
       throw new Error('Options must be an object');
     }
 
+    opts = opts || {};
+
     var t = opts.interval || 100;
 
     interval = setInterval(function(){
