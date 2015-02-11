@@ -1,6 +1,6 @@
 # geocitify
 
-[GeoCitify](http://en.wikipedia.org/wiki/GeoCities) any webpage, just like the old days!
+[GeoCitify](http://en.wikipedia.org/wiki/GeoCities) your webpage, just like the old days!
 
 # Demo
 

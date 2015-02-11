@@ -1,7 +1,7 @@
 {
   "name": "geocitify",
   "version": "0.0.1",
-  "description": "Geocitify any webpage",
+  "description": "Geocitify your webpage",
   "main": "geocitify.js",
   "directories": {
     "test": "test"
