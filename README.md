@@ -6,6 +6,12 @@
 
 [http://lab.moogs.io/geocitify](http://lab.moogs.io/geocitify)
 
+# Install
+
+```
+bower install geocitify
+```
+
 # Usage
 
 ```javascript
