@@ -4,7 +4,7 @@
 
 # Demo
 
-[http://lab.moogs.io/geocitify](http://lab.moogs.io/geocitify)
+[https://lab.miguelmota.com/geocitify](https://lab.miguelmota.com/geocitify)
 
 # Install
 
